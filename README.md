@@ -217,9 +217,3 @@ for x, y in get_piece_blocks(piece):
 
 I will tinker with the code from time to time but I have no plans for additional features.
 
-
-## Contact
-
-
-Ole Martin Bjørndalen
-https://github.com/olemb/tetris/
